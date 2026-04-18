@@ -5,7 +5,7 @@ Built with React + Flask + Gemini AI. 100% FREE to deploy.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 asha-project/
 ├── asha-backend/       ← Flask API (deploy on Render)
@@ -24,7 +24,7 @@ asha-project/
 
 ---
 
-## 🚀 STEP 1 — Run Locally
+## STEP 1 — Run Locally
 
 ### Backend
 ```bash
@@ -44,11 +44,11 @@ npm start
 # → Running on http://localhost:3000
 ```
 
-Open app → click ⚙️ Settings → paste your Gemini API key → Save ✅
+Open app → click Settings → paste your Gemini API key → Save ✅
 
 ---
 
-## 🌐 STEP 2 — Deploy Backend on Render (FREE)
+## STEP 2 — Deploy Backend on Render (FREE)
 
 1. Go to https://render.com → Sign up with GitHub
 2. Click "New" → "Web Service"
@@ -63,7 +63,7 @@ Open app → click ⚙️ Settings → paste your Gemini API key → Save ✅
 
 ---
 
-## 🌐 STEP 3 — Deploy Frontend on Vercel (FREE)
+## STEP 3 — Deploy Frontend on Vercel (FREE)
 
 1. Go to https://vercel.com → Sign up with GitHub
 2. Click "New Project" → import your repo → select `asha-frontend` folder
@@ -72,26 +72,24 @@ Open app → click ⚙️ Settings → paste your Gemini API key → Save ✅
 
 ---
 
-## 🔑 STEP 4 — Get FREE Gemini API Key
+## STEP 4 — Get FREE Gemini API Key
 
 1. Go to https://aistudio.google.com/app/apikey
 2. Sign in with Google account
 3. Click "Create API Key"
 4. Copy the key
-5. Open your deployed app → ⚙️ Settings → paste key → Save
+5. Open your deployed app → Settings → paste key → Save
 
 ---
 
-## ✅ Done!
+## Done!
 Your app is live at `https://asha.vercel.app` — share this link with anyone!
 
 ---
 
-## 📊 Free Tier Limits
-| Service | Free Limit |
-|---------|-----------|
+## Free Tier Limits
+| Service | Free 
 | Gemini API | 15 req/min, 1M tokens/day |
 | Render | 750 hours/month (sleeps after 15min idle) |
 | Vercel | Unlimited |
 
-**Total cost: ₹0** 🎉
